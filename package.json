@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "async": "^3.2.4",
+    "csv-parse": "^2.5.0",
+    "csv-stringify": "^2.1.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.0.3",
+    "request": "^2.88.2"
+  }
+}
