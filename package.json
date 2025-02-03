@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "async": "^3.2.4",
     "csv-parse": "^2.5.0",
